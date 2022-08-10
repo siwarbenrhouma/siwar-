@@ -1,0 +1,14 @@
+div{
+    display: flex ;
+    align-items : center ;
+    justify-content: center ;
+    flex-direction: column ;
+    padding-top:10VH;
+    background-color: #FFB6C1;
+    
+
+
+}
+.css{
+    font-family: italic !important;
+}
